@@ -52,8 +52,8 @@ function getWinner(playerMove,computerMove) {
     return winner;
 }
 
-    var playerWins = 0;
-    var computerWins = 0;
+var playerWins = 0;
+var computerWins = 0;
 
 function playToFive() {
 
